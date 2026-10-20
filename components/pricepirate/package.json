@@ -1,0 +1,18 @@
+{
+  "name": "@pipedream/pricepirate",
+  "version": "0.1.0",
+  "description": "Pipedream PricePirate Price API Components",
+  "main": "pricepirate.app.mjs",
+  "keywords": [
+    "pipedream",
+    "pricepirate"
+  ],
+  "homepage": "https://pipedream.com/apps/pricepirate",
+  "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^3.4.0"
+  }
+}
