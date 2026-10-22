@@ -1,6 +1,6 @@
-# PricePirate Price API for Pipedream
+# PricePirate for Pipedream
 
-Pipedream actions for the [PricePirate Price API](https://pricepirate.com/en/price-api/): current product and offer data by EAN/GTIN or marketplace product ID on Idealo, Amazon, Google Shopping, Bol, Klarna and PriceRunner.
+Pipedream actions for [PricePirate](https://pricepirate.com/en/price-api/), the price-data API: current product and offer data by EAN/GTIN or marketplace product ID on Idealo, Amazon, Google Shopping, Bol, Klarna and PriceRunner.
 
 This repository is where the integration is developed. The components are submitted to the [Pipedream registry](https://github.com/PipedreamHQ/pipedream) and run in Pipedream Workflows, Pipedream Connect and Pipedream's MCP servers. `components/pricepirate/` mirrors the registry layout one-to-one.
 

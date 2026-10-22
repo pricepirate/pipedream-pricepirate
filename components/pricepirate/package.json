@@ -1,7 +1,7 @@
 {
   "name": "@pipedream/pricepirate",
   "version": "0.1.0",
-  "description": "Pipedream PricePirate Price API Components",
+  "description": "Pipedream PricePirate Components",
   "main": "pricepirate.app.mjs",
   "keywords": [
     "pipedream",

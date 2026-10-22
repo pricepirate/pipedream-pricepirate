@@ -1,6 +1,6 @@
 # Overview
 
-The [PricePirate Price API](https://pricepirate.com/en/price-api/) returns current product and offer data by EAN/GTIN or marketplace product ID across European marketplaces: Idealo, Amazon, Google Shopping, Bol, Klarna and PriceRunner. Every lookup returns prices, shipping, totals, availability and shop details in one schema, for up to 1,000 products per request.
+[PricePirate](https://pricepirate.com/en/price-api/)'s price-data API returns current product and offer data by EAN/GTIN or marketplace product ID across European marketplaces: Idealo, Amazon, Google Shopping, Bol, Klarna and PriceRunner. Every lookup returns prices, shipping, totals, availability and shop details in one schema, for up to 1,000 products per request.
 
 # Example Use Cases
 
@@ -11,7 +11,7 @@ The [PricePirate Price API](https://pricepirate.com/en/price-api/) returns curre
 # Getting Started
 
 1. Create an API key in the PricePirate dashboard. New accounts get 100 free credits; each query costs one credit.
-2. Connect your PricePirate Price API account in Pipedream with that key.
+2. Connect your PricePirate account in Pipedream with that key.
 3. Use **Get Offers by EAN** or **Get Product Details by EAN** for small batches. They start the lookup and wait for it.
 4. For large batches, use **Start Price Job**, wait a few minutes, then **Get Job Results**.
 
